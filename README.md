@@ -9,5 +9,3 @@ Reverse an array of integers.</b> <br>
 
 A = [1,2,3] <br>
 Return [3, 2, 1]
-
-<b>NB: Solved two different ways
